@@ -1,0 +1,4 @@
+print("otis")
+print("maeve")
+print("eric")
+print("ruby
